@@ -38,7 +38,7 @@ snr_range = np.arange(3,6,0.5)
 err_cnt = 100
 
 constraints = 'NoC' # '2C' # '1C'  # 'NoC'
-# 'NoC' : for no constraints 
+# 'NoC' : This is the conventional ORBGRAND with no constraints
 # '1C' : for a single constraint based on overall parity (if the all-one row exists in the H matrix)
 # '2C' : for two constraints based on row 0 and row 1 (h_set = [0,1]) of manipulated H matrix (see section/cell "parity check matrix")
 

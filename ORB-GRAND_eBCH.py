@@ -1,4 +1,4 @@
-# Constraint ORB-GRAND for eBCH ###########################################
+# Constrained ORB-GRAND for eBCH ###########################################
 #
 # Copyright (c) 2022, Mohammad Rowshan and Jinhong Yuan
 # All rights reserved.
